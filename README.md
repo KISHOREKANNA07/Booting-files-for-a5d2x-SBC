@@ -1,1 +1,1 @@
-# Booting-files-for-a5d2x-SBC
+# Booting-files-on-ruggedboard-a5d2x
